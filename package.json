@@ -1,5 +1,6 @@
 {
   "name": "todo-project",
+  "Author":"Anjali Thawani",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
